@@ -2,7 +2,7 @@
 
 React js is a frontEnd javascript library, build by Meta, it uses virtual dom, support components and is super famous and fast.
 SPA --> single page application
-
+{discover more about React js: assignment}
 # What is JSX?
 
 Javascript and xml
@@ -28,3 +28,4 @@ Rules: It should begin with Capital letters and should return jsx
 # named vs default
  export    export default
  infinite   1
+
