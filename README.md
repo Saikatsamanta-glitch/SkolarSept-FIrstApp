@@ -29,3 +29,12 @@ Rules: It should begin with Capital letters and should return jsx
  export    export default
  infinite   1
 
+# What is a Hook?
+hooks are methods to handle || manage || manipulate our state/data in React
+
+# Rules of hooks
+1) use keyword is must
+2) needs to be at top of scope
+
+# useState hook
+useState ---> 1) variable 2)updating function
